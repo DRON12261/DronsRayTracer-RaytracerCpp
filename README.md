@@ -1,6 +1,6 @@
 # Разработка приложения для построения 3D моделей с помощью трассировки лучей
 # [РЕПОЗИТОРИЙ С РЕНДЕРОМ]
-[Ссылка на второй репозиторий с редактором сцен]()
+[Ссылка на второй репозиторий с редактором сцен](https://github.com/DRON12261/DronsRayTracer-SceneEditor)
 
 ## Презентация
 [Ссылка на презентацию в Google Docs](https://docs.google.com/presentation/d/1oqAt1HlBXtrdiDoOsI4phRVdBJvNXpkoxAqHZr2-xjI/edit?usp=sharing)
